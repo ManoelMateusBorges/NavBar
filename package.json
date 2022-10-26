@@ -1,0 +1,15 @@
+{
+  "name": "navbar",
+  "version": "1.0.0",
+  "description": "projeto de treino js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "author": "Manoel Mateus",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
