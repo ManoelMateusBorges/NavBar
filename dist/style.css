@@ -86,5 +86,9 @@
         right:120px;
         position: relative;
     }
+
+    .nav-menu{
+        display: none;
+    }
     
   }
